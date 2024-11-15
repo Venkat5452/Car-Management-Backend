@@ -6,7 +6,7 @@ A full-featured backend API built with Node.js, Express, MongoDB, and Mongoose f
 - **Application**: [https://mycarmanagement.netlify.app/](https://mycarmanagement.netlify.app/) (Since the backend is deployed on a free server, it may take some time while interacting with the backend).
 - **Back End**: [https://car-management-backend-vquj.onrender.com](https://car-management-backend-vquj.onrender.com)
 - **Front End GitHub Link**: [https://github.com/Venkat5452/Car-Management-FrontEnd](https://github.com/Venkat5452/Car-Management-FrontEnd)
-- **Documentation** : [https://github.com/Venkat5452/Car-Management-Backend/blob/main/Car%20Management%20Application.pdf](https://github.com/Venkat5452/Car-Management-Backend/blob/main/Car%20Management%20Application.pdf)
+- **Documentation** : [Download PDF](./Car Management Application.pdf)
 
 ## Features
 
