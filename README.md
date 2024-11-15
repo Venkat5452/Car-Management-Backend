@@ -3,7 +3,7 @@
 A full-featured backend API built with Node.js, Express, MongoDB, and Mongoose for managing car collections. This application includes user authentication, car data management, and email-based OTP verification.
 
 ### Deployment
-- **Application**: [https://mycarmanagement.netlify.app/](https://mycarmanagement.netlify.app/) (Since the Backend is Deployed on Free Server it may take some time while interacting with backend)
+- **Application**: [https://mycarmanagement.netlify.app/](https://mycarmanagement.netlify.app/) (Since the backend is deployed on a free server, it may take some time while interacting with the backend).
 - **Back End**: [https://car-management-backend-vquj.onrender.com](https://car-management-backend-vquj.onrender.com)
 - **Front End GitHub Link**: [https://github.com/Venkat5452/Car-Management-FrontEnd](https://github.com/Venkat5452/Car-Management-FrontEnd)
 
